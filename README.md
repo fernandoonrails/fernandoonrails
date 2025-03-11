@@ -12,23 +12,24 @@
 I'm a <b>mid-level</b> Software Engineer, I love <b>Go</b>, <b>Software Architecture</b> and <b>System Design</b>
 </p>
 
-
-
-<ul align="center">
-
+<!-- <ul>
+  <li>Experienced in Java, Go and DevOps</li>
+  <li>Constantly learning and exploring new things</li>
+  <li>Animal lover</li>
+</ul> -->
+<p align="center">
   Experienced in Java, Go and DevOps</br>
   Constantly learning and exploring new things</br>
   Animal lover
-
-</ul>
+</p>
 
 ---
 
 <h3 align="center">Ask me about</h3>
-<ul align="center">
+<p align="center">
   Go, Architectural Design, System Design</br>
-  DevOps, CI/CD and Cloud
-</ul>
+  DevOps, CI/CD and Cloud</br>
+</p>
 
 ---
 
