@@ -21,8 +21,9 @@ I'm a **mid-level** Software Engineer, I love **Go**, **Software Architecture** 
 - Go, Architectural Design, System Design
 - DevOps, CI/CD and Cloud
 
+---
 
-<p align="center>
+<p align="center">
   <a href="https://github.com/fernandoonrails">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernandoonrails&layout=compact&langs_count=8&card_width=320&theme=radical" />
   </a>
