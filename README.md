@@ -8,18 +8,29 @@
 
 ### About me
 
-I'm a **mid-level** Software Engineer, I love **Go**, **Software Architecture** and **System Design**
+<p align="center">
+I'm a <b>mid-level</b> Software Engineer, I love <b>Go</b>, <b>Software Architecture</b> and <b>System Design</b>
+</p>
 
-- Experienced in Java, Go and DevOps
-- Constantly learning and exploring new things
-- Animal lover
+
+
+<ul align="center">
+
+  Experienced in Java, Go and DevOps\
+  Constantly learning and exploring new things\
+  Animal lover
+
+</ul>
 
 ---
 
-### Ask me about
+<h3 align="center">Ask me about</h3>
+<ul align="center">
 
-- Go, Architectural Design, System Design
-- DevOps, CI/CD and Cloud
+  Go, Architectural Design, System Design\
+  DevOps, CI/CD and Cloud
+
+</ul>
 
 ---
 
