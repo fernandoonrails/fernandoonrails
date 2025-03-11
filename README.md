@@ -16,8 +16,8 @@ I'm a <b>mid-level</b> Software Engineer, I love <b>Go</b>, <b>Software Architec
 
 <ul align="center">
 
-  Experienced in Java, Go and DevOps\
-  Constantly learning and exploring new things\
+  Experienced in Java, Go and DevOps</br>
+  Constantly learning and exploring new things</br>
   Animal lover
 
 </ul>
@@ -26,10 +26,8 @@ I'm a <b>mid-level</b> Software Engineer, I love <b>Go</b>, <b>Software Architec
 
 <h3 align="center">Ask me about</h3>
 <ul align="center">
-
-  Go, Architectural Design, System Design\
+  Go, Architectural Design, System Design</br>
   DevOps, CI/CD and Cloud
-
 </ul>
 
 ---
